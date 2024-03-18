@@ -2,8 +2,6 @@
 
 **I develop Innovative Products**
 
-![Totoro](https://github.com/sunghoonsh3/sunghoonsh3/issues/1#issue-2191103339)
-
 Innovating cool products and solving tricky problems with a fresh twist is what I do best. Think of me as the small Totoro—bouncy, full of life, and always curious. I have a knack for diving into the weird and wonderful, turning quirky ideas into reality.
 
 
@@ -13,6 +11,7 @@ Innovating cool products and solving tricky problems with a fresh twist is what 
   - [Automated Tutoring Applications with Selenium](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Python</b>
   - [Automated Tutoring Applications with Selenium](https://github.com/sunghoonsh3/pythonProject/tree/main)
+  - [Political Campaign Messaging Program](https://github.com/sunghoonsh3/auto-message-sender.git)
 
 <h2>🚀 Startup</h2>
 
