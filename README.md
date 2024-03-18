@@ -17,7 +17,7 @@ Innovating cool products and solving tricky problems with a fresh twist is what 
 <h2>🎒 School Development Projects:</h2>
 
 - <b>C</b>
-- [Conway's Game of Life](https://github.com/sunghoonsh3/pythonProject/tree/main)
+  - [Conway's Game of Life](https://github.com/sunghoonsh3/pythonProject/tree/main)
 
 <h2>🚀 Startup</h2>
 
