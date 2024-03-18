@@ -7,8 +7,6 @@ Innovating cool products and solving tricky problems with a fresh twist is what 
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>C</b>
-  - [Automated Tutoring Applications with Selenium](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Python</b>
   - [Automated Tutoring Applications with Selenium](https://github.com/sunghoonsh3/pythonProject/tree/main)
   - [Political Campaign Messaging Program](https://github.com/sunghoonsh3/auto-message-sender.git)
