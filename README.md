@@ -34,17 +34,10 @@ Innovating cool products and solving tricky problems with a fresh twist is what 
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="TristanShin | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="TristanShin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="TristanShin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 [<img align="left" alt="TristanShin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/wordpress.svg" />][Wordpress]
 
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
+[instagram]: https://www.instagram.com/hooni_tri?igsh=ejkyZzE2Z2l5cWto&utm_source=qr
 [linkedin]: https://www.linkedin.com/in/tristan-shin/
 [Wordpress]: https://myexpositions.com
-
-<!--
-**sunghoonsh3/sunghoonsh3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
