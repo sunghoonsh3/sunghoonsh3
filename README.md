@@ -1,6 +1,7 @@
 <h1>👋 Hi, I'm Tristan!</h1>
 
 **I develop Innovative Products**
+![Totoro](https://github.com/sunghoonsh3/sunghoonsh3/assets/99653326/265337f6-d882-4329-a33f-14f0266401d7)
 
 Innovating cool products and solving tricky problems with a fresh twist is what I do best. Think of me as the small Totoro—bouncy, full of life, and always curious. I have a knack for diving into the weird and wonderful, turning quirky ideas into reality.
 
