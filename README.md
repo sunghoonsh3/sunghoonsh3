@@ -12,7 +12,7 @@ Innovating cool products and solving tricky problems with a fresh twist is what 
 - <b>C</b>
   - [Automated Tutoring Applications with Selenium](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Python</b>
-  - [Automated Tutoring Applications with Selenium](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Automated Tutoring Applications with Selenium](https://github.com/sunghoonsh3/pythonProject/tree/main)
 
 <h2>🚀 Startup</h2>
 
