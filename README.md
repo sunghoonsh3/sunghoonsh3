@@ -19,10 +19,6 @@ Innovating cool products and solving tricky problems with a fresh twist is what 
 - <b>C</b>
   - [Conway's Game of Life](https://github.com/sunghoonsh3/pythonProject/tree/main)
 
-<h2>🚀 Startup</h2>
-
-- [Atti - An app bridging immigrants with ethnic communities.](https://atti.app)
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sunghoonsh3&theme=city_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
