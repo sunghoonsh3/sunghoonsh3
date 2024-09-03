@@ -15,7 +15,7 @@ Innovating cool products and solving tricky problems with a fresh twist is what 
   - [Political Campaign Messaging Program](https://github.com/sunghoonsh3/auto-message-sender.git)
 
 - <b>Javascript</b>
-  - - [Pig Game](https://github.com/sunghoonsh3/personal-learning.git)
+  - [Pig Game](https://github.com/sunghoonsh3/personal-learning.git)
  
 <h2>🎒 School Development Projects:</h2>
 
