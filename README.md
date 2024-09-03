@@ -13,6 +13,9 @@ Innovating cool products and solving tricky problems with a fresh twist is what 
 - <b>Python</b>
   - [Automated Tutoring Applications with Selenium](https://github.com/sunghoonsh3/pythonProject/tree/main)
   - [Political Campaign Messaging Program](https://github.com/sunghoonsh3/auto-message-sender.git)
+
+- <b>Javascript</b>
+  - - [Pig Game](https://github.com/sunghoonsh3/personal-learning.git)
  
 <h2>🎒 School Development Projects:</h2>
 
