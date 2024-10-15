@@ -11,19 +11,25 @@ Innovating cool products and solving tricky problems with a fresh twist is what 
 <h2>👨‍💻 Personal Development Projects:</h2>
 
 - <b>Python</b>
-  - [Automated Tutoring Applications with Selenium](https://github.com/sunghoonsh3/pythonProject/tree/main)
-  - [Political Campaign Messaging Program](https://github.com/sunghoonsh3/auto-message-sender.git)
+  - [Automated Tutoring Applications with Selenium](https://github.com/sunghoonsh3/pythonProject/tree/main)<br><br>
+    Developed a Python program using Selenium to automate the application process for tutoring programs, streamlining the workflow and saving time.
+
+  - [Political Campaign Messaging Program](https://github.com/sunghoonsh3/auto-message-sender.git)<br><br>
+    Created an automated messaging system for a local political campaign using Selenium in Python, enhancing outreach efficiency.
 
 - <b>Javascript</b>
-  - [Pig Game](https://github.com/sunghoonsh3/personal-learning.git)
+  - [Pig Game](https://github.com/sunghoonsh3/personal-learning.git)<br><br>
+    Developed an interactive Pig Game to deepen my understanding of JavaScript concepts while building a fun and engaging user experience.
  
 <h2>🎒 School Development Projects:</h2>
 
-- <b>Notre Dame Venture Capital Website</b>
-  - [Notre Dame Venture Capital](https://notredame.vc/)
+- <b>Javscript, CSS, HTML</b>
+  - [Notre Dame Venture Capital](https://notredame.vc/)<br><br>
+    Collaborating with Notre Dame Venture Capital to design and enhance their official website, improving user interface and functionality.
 
 - <b>C</b>
-  - [Conway's Game of Life](https://github.com/sunghoonsh3/pythonProject/tree/main)
+  - [Conway's Game of Life](https://github.com/sunghoonsh3/pythonProject/tree/main)<br><br>
+    Implemented Conway’s Game of Life in C, demonstrating proficiency in algorithms and memory management while simulating cellular automata.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sunghoonsh3&theme=city_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
