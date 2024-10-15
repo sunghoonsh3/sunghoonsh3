@@ -19,6 +19,9 @@ Innovating cool products and solving tricky problems with a fresh twist is what 
  
 <h2>🎒 School Development Projects:</h2>
 
+- <b>Notre Dame Venture Capital Website</b>
+  - [Notre Dame Venture Capital](https://notredame.vc/)
+
 - <b>C</b>
   - [Conway's Game of Life](https://github.com/sunghoonsh3/pythonProject/tree/main)
 
