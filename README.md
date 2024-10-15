@@ -10,6 +10,10 @@ Innovating cool products and solving tricky problems with a fresh twist is what 
 
 <h2>👨‍💻 Personal Development Projects:</h2>
 
+- <b>Javscript, CSS, HTML</b>
+  - [Notre Dame Venture Capital](https://notredame.vc/)<br><br>
+    Collaborating with Notre Dame Venture Capital to design and enhance their official website, improving user interface and functionality.
+
 - <b>Python</b>
   - [Automated Tutoring Applications with Selenium](https://github.com/sunghoonsh3/pythonProject/tree/main)<br><br>
     Developed a Python program using Selenium to automate the application process for tutoring programs, streamlining the workflow and saving time.
@@ -22,10 +26,6 @@ Innovating cool products and solving tricky problems with a fresh twist is what 
     Developed an interactive Pig Game to deepen my understanding of JavaScript concepts while building a fun and engaging user experience.
  
 <h2>🎒 School Development Projects:</h2>
-
-- <b>Javscript, CSS, HTML</b>
-  - [Notre Dame Venture Capital](https://notredame.vc/)<br><br>
-    Collaborating with Notre Dame Venture Capital to design and enhance their official website, improving user interface and functionality.
 
 - <b>C</b>
   - [Conway's Game of Life](https://github.com/sunghoonsh3/pythonProject/tree/main)<br><br>
