@@ -17,11 +17,11 @@ Innovating cool products and solving tricky problems with a fresh twist is what 
 
 - <b>React, Next.js, TailwindCSS, Node.js, Express.js, Firebase Firestore, SendGrid API, Firebase Analytics</b>
   - [Halohub.vc](https://www.halohub.vc/)<br><br>
-  - Collaborating with the Notre Dame IDEA Center to rebuild and enhance Halohub.vc, originally built with the no-code tool Bubble.io. Now transitioning to a fully coded platform using the mentioned tech stack for improved functionality and scalability. 
+    Collaborating with the Notre Dame IDEA Center to rebuild and enhance Halohub.vc, originally built with the no-code tool Bubble.io. Now transitioning to a fully coded platform using the mentioned tech stack for improved functionality and scalability. 
 
 - <b>Javscript, CSS, HTML</b>
   - [Notre Dame Venture Capital](https://notredame.vc/)<br><br>
-  -  Collaborating with Notre Dame Venture Capital to design and enhance their official website, improving user interface and functionality.
+    Collaborating with Notre Dame Venture Capital to design and enhance their official website, improving user interface and functionality.
 
 #
 
