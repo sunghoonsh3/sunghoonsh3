@@ -21,7 +21,7 @@ Innovating cool products and solving tricky problems with a fresh twist is what 
 
 - <b>Javscript, CSS, HTML</b>
   - [Notre Dame Venture Capital](https://notredame.vc/)<br><br>
-    Collaborating with Notre Dame Venture Capital to design and enhance their official website, improving user interface and functionality.
+  -  Collaborating with Notre Dame Venture Capital to design and enhance their official website, improving user interface and functionality.
 
 #
 
