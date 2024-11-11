@@ -28,6 +28,10 @@ Innovating cool products and solving tricky problems with a fresh twist is what 
   - [Notre Dame Venture Capital](https://notredame.vc/)<br><br>
     Collaborating with Notre Dame Venture Capital to design and enhance their official website, improving user interface and functionality.
 
+- <b>OpenCV, Pillow, TensorFlow, PyTorch, FontForge, fontTools, HTML5, CSS3, JavaScript, Next.js, Django, SQLite, AWS S3, CSS @font-face, Nginx, Gunicorn or uWSGI, Docker, Git, SSL/TLS, PyTest</b>
+  - [Esperance](https://github.com/sunghoonsh3/Esperance)<br><br>
+    Esperance is a personal project under development. This website transforms a sample of your handwriting (from an image of two or three sentences) into a digital format. You can then input any message, and the site will generate an image of your text in your handwriting. Esperance will also include an option to send personalized, handwritten-style messages to friends through automated systems when you provide contact details. Note that Esperance is an ongoing, long-term project and not yet ready for public use. Development is progressing steadily, with about thirty minutes dedicated to it each day.
+
 #
 
 ### ✅ Finished Projects
