@@ -28,6 +28,10 @@ Innovating cool products and solving tricky problems with a fresh twist is what 
   - [Notre Dame Venture Capital](https://notredame.vc/)<br><br>
     Collaborating with Notre Dame Venture Capital to design and enhance their official website, improving user interface and functionality.
 
+- <b>Next.js, Spring Boot 3</b>
+  - [Simple Thinking](https://tristanshin.com/)<br><br>
+    Currently building my personal blog, Simple Thinking, leveraging Next.js for the front-end and Spring Boot for the back-end to deliver a seamless and efficient user experience.
+
 #
 
 ### ✅ Finished Projects
