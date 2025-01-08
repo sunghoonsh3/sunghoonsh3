@@ -32,6 +32,10 @@ Innovating cool products and solving tricky problems with a fresh twist is what 
   - [Simple Thinking](https://tristanshin.com/)<br><br>
     Currently building my personal blog, Simple Thinking, leveraging Next.js for the front-end and Spring Boot for the back-end to deliver a seamless and efficient user experience.
 
+- <b>Next.js, Spring Boot 3</b>
+  - [D:gging]<br><br>
+    Building a nonprofit platform with Next.js and Spring Boot to help low-income CS students collaborate on projects, enhance skills, and create portfolios to impress employers.
+
 #
 
 ### ✅ Finished Projects
