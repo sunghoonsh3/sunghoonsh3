@@ -18,7 +18,7 @@ If you’d like to learn more about me, feel free to visit [Simple Thinking](htt
 
 - <b>Flutter, React, Node.js, MongoDB</b>
   - [Atti](https://www.atti.app/)<br><br>
-    I run Atti, an app designed to connect internationals across the U.S. to foster meaningful friendships and help them join local community events. Backed by Elevate Ventures, Atti is committed to enriching the social experiences of users and building strong, supportive   communities. The app is readily available on both [iOS](https://apps.apple.com/us/app/atti/id6661021480) and [Google Play Store](https://play.google.com/store/apps/details?id=com.atti.atti&hl=en_US).
+    I run Atti, an app designed to connect internationals across the U.S. to foster meaningful friendships and help them join local community events. Backed by Elevate Ventures, Atti is committed to enriching the social experiences of users and building strong, supportive   communities. The app is readily available on both [iOS](https://apps.apple.com/us/app/atti/id6661021480) and [Google Play Store](https://play.google.com/store/apps/details?id=com.atti.atti&hl=en_US). Follow us on [Threads](https://www.threads.net/@atti_app)!
 
 
 
