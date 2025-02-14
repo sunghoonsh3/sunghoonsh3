@@ -29,13 +29,12 @@ If you’d like to learn more about me, feel free to visit [Simple Thinking](htt
   - [Notre Dame Venture Capital](https://notredame.vc/)<br><br>
     Collaborating with Notre Dame Venture Capital to design and enhance their official website, improving user interface and functionality.
 
+### ✅ Finished Projects
+
 - <b>Next.js</b>
   - [Simple Thinking](https://tristanshin.com/)<br><br>
     Currently building my personal blog, Simple Thinking, leveraging Next.js for the front-end and Spring Boot for the back-end to deliver a seamless and efficient user experience.
     The content is being migrated from my previous blog, [My Expositions](https://myexpositions.com/)
-#
-
-### ✅ Finished Projects
 
 - <b>Python</b>
   - [Automated Tutoring Applications with Selenium](https://github.com/sunghoonsh3/pythonProject/tree/main)<br><br>
