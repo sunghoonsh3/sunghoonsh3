@@ -20,8 +20,8 @@ If you’d like to learn more about me, feel free to visit [Simple Thinking](htt
     I run Atti, an app designed to connect internationals across the U.S. to foster meaningful friendships and help them join local community events. Backed by Elevate Ventures, Atti is committed to enriching the social experiences of users and building strong, supportive   communities. The app is readily available on both [iOS](https://apps.apple.com/us/app/atti/id6661021480) and [Google Play Store](https://play.google.com/store/apps/details?id=com.atti.atti&hl=en_US). Follow us on [Threads](https://www.threads.net/@atti_app)!
 
 - <b>TypeScript, Spring Boot, NextJS, PostgreSQL</b>
-  - D:gging<br><br>
-    This is my latest project. I’m a senior, and I still have no idea what classes I’d actually enjoy. What’s an easy A class? What arts class should I take? (I’m a CS major—I know nothing about arts lol). What’s this professor like? I just ask my friends for recommendations and hope for the best. Digging is here to fix that for ND students.
+  - [D:gging](https://dgging.com/)<br><br>
+    This is my latest project. I’m a senior, and I still have no idea what classes I’d actually enjoy. What’s an easy A class? What arts class should I take? (I’m a CS major—I know nothing about arts lol). What’s this professor like? I just ask my friends for recommendations and hope for the best. Digging is here to fix that for ND students. Note that it is in a very early stage, and a lot of stuff isn't working right now.
 
 
 - <b>React, Next.js, TailwindCSS, Node.js, Express.js, Firebase Firestore, SendGrid API, Firebase Analytics</b>
