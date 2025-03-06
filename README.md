@@ -21,7 +21,7 @@ If you’d like to learn more about me, feel free to visit [Simple Thinking](htt
 
 - <b>TypeScript, Spring Boot, NextJS, PostgreSQL</b>
   - [D:gging](https://dgging.com/)<br><br>
-    This is my latest project. I’m a senior, and I still have no idea what classes I’d actually enjoy. What’s an easy A class? What arts class should I take? (I’m a CS major—I know nothing about arts lol). What’s this professor like? I just ask my friends for recommendations and hope for the best. Digging is here to fix that for ND students. Note that it is in a very early stage, and a lot of stuff isn't working right now.
+  This is my latest project. I’m a senior, and I still have no idea how to find cool classes I’d actually enjoy. What’s an easy A class? What arts class should I take? (I’m a CS major—I know nothing about arts lol). What’s this CS professor like? I just ask my friends for recommendations and hope for the best. Digging is here to   fix that for ND students. Note that it is in a very early stage, and a lot of stuff isn't working right now.
 
 
 - <b>React, Next.js, TailwindCSS, Node.js, Express.js, Firebase Firestore, SendGrid API, Firebase Analytics</b>
