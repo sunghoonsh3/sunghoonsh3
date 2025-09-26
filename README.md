@@ -16,8 +16,8 @@ If you’d like to learn more about me, feel free to visit [Simple Thinking](htt
 ### 🚧 Currently Working On
 
 - <b>HTML, CSS, JS</b>  
-  - [NDFOUNDERS](https://www.ndfounders.com/)<br><br>
-    I co-founded **NDFounders**, the first community of its kind at the University of Notre Dame. Our mission is to connect student founders with top talents/investors, provide access to our network, and offer the support needed to scale their ventures. We have 70+ members so far. Check us out!
+  - [NDFOUNDERS](https://www.ndfounders.club/)<br><br>
+    I co-founded **NDFOUNDERS (NDFC)s**, the first community of its kind at the University of Notre Dame. Our mission is to connect student founders with top talents/investors, provide access to our network, and offer the support needed to scale their ventures. We have 70+ members so far. Check us out!
 
 - <b>Flutter, React, Node.js, MongoDB</b>
   - [Atti](https://www.atti.app/)<br><br>
